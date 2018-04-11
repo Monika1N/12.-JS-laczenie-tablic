@@ -8,8 +8,8 @@ var newName = "Marian";
 
 
 if (allNames.indexOf(newName) === -1) {
-	var addNewName = allNames.push(newName);
-	console.log(addNewName);
+	allNames.push(newName);
+	console.log(allNames);
 } else {
 	console.log("To imię już istnieje. Dodaj inne imię")
 }
