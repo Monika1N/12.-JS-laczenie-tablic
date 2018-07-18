@@ -1,1 +1,1 @@
-# Zadanie-9.2-Laczymy-tablice
+# JavaScript - łączenie tablic
